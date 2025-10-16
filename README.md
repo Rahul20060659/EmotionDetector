@@ -2,6 +2,7 @@
 
 Detects facial emotions (happy, sad, neutral, etc.) in real-time using your webcam.
 
+
 ## How to run
 
 1. Clone repo and activate venv
