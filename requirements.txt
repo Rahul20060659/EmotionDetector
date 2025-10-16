@@ -1,0 +1,5 @@
+opencv-python
+fer
+mtcnn
+moviepy==1.0.3
+numpy
